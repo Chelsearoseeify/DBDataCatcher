@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView CusrsorAdapter</string>
+    <string name="some_text">Structures!</string>
+    <string name="some_hint">Type here to filter&#8230;</string>
+</resources>
